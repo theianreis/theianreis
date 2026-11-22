@@ -6,7 +6,7 @@
 <h2>Olá, eu sou Ian Reis! 👋</h2>
 
 <p align="left">
-  🎓 Estudante de <strong>Engenharia Mecânica na UESC</strong>, com interesse em
+  🎓 Estudante de <strong>Física na UESC</strong>, com interesse em
   desenvolvimento de sistemas, modelagem computacional e análise de dados.
 </p>
 
