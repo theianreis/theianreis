@@ -68,13 +68,13 @@
 </p>
 
 <p align="left">
-  🔹 <a href="https://github.com/theianreis/modelagem_computacional"><strong>Modelagem Computacional</strong></a>
-  — Implementações e estudos de métodos computacionais.
+  🔹 <a href="https://github.com/theianreis/proteus-bridge"><strong>proteus-bridge</strong></a>
+  — Implementação de comunicação entre o **Proteus 8** e o **Python**.
 </p>
 
 <p align="left">
-  🔹 <a href="https://github.com/theianreis/Research-main"><strong>Research Main</strong></a>
-  — Organização de estudos, conceitos e pesquisas.
+  🔹 <a href="https://github.com/theianreis/Qubit-teleportation-on-superconducting-hardware-fidelity-loss-with-increasing-separation"><strong>Computação Quântica</strong></a>
+  — Pesquisa com computação quântica e mitigação de erro.
 </p>
 
 <h3>💌 Contato</h3>
